@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Pragati Narrow
+- Font Author: Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+- Font Source: http://fonts.gstatic.com/s/pragatinarrow/v13/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
